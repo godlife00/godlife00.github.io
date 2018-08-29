@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 처음 시작해보는 블로그 연습
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
